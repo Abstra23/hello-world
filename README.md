@@ -1,5 +1,4 @@
 # hello-world
-My practice repository
 
 **I started using *git* because it's** *great*
 I want to print 
