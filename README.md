@@ -1,9 +1,6 @@
 # hello-world
 My practice repository
 
-# This is
-## my first
-### attempt
 **I started using *git* because it's** *great*
 I want to print 
 >hello world
@@ -15,6 +12,7 @@ I want to print
 - Monitor
 - Man-eater
 ---
-'while(!peace){ std::cout << "you need rest\n; }'
+
+`while(!peace){ std::cout << "you need rest\n; }`
 
 
